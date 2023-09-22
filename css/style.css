@@ -1,4 +1,12 @@
+.btn{
+    background-color: green;
+    border: none;
+    padding: 12px 20px;
+    color: white;
+    border-radius: 5px;
+    transition: all ease 0.5s;
+}
 .btn:hover{
     background-color: red;
-    transition: all ease 0.5s;
+
 }
